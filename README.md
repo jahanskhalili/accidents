@@ -16,9 +16,3 @@ NEISS hospitals are a stratified probability sample of all U.S. hospitals that h
 https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=CvbkBwSYvXoJ%2blc0Tfzwdg%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d
 
 Select most recent ten years and Tab Delimited Text File and submit query to download NEISS.TXT
-
-
-
-## extensions
-Work-RISQS  This data is only availible up to 2015, something is up with this program and requires direct inquiry to learn more.
-https://www2.cdc.gov/risqs/wrtechinfo.htm#DataSource
